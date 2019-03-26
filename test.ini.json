@@ -1,0 +1,14 @@
+[LockServer]
+port = 88
+thread_num = 10
+ 
+
+[LockWeb]
+port = 89
+
+[Auth]
+open = 0
+secretkey = 111111
+
+
+ 
