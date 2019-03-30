@@ -6,5 +6,6 @@
 	<classpathentry kind="lib" path="lib/org.dtools.javaini-v1.1.00.jar"/>
 	<classpathentry kind="lib" path="lib/leveldbjni-all-1.8.jar"/>
 	<classpathentry kind="lib" path="lib/kahadb-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.27.2.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
