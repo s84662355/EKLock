@@ -30,7 +30,7 @@ public class LockController extends Controller {
 			   hashMap.put("data","获取锁失败");
 		   }
 		   
-		   LogUtil.getLogUtil().add("Lock", this.threadName, this.LockName,  this.Unlocktime, this.Waittime , arg, status, responsedata, createtime);
+		//   LogUtil.getLogUtil().add("Lock", this.threadName, this.LockName,  this.Unlocktime, this.Waittime , arg, status, responsedata, createtime);
 		   
 		   
 		   return hashMap;
